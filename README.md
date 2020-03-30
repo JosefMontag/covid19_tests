@@ -19,7 +19,12 @@ We will be posting snapshots of this data in the long (panel) form. Each country
 
 This data gatherig effort was initiated and is maintained by
 
-Petr Barton                      and           Josef Montag
-Natland Investment Group                       Department of Economics
-                                               Faculty of Law
-                                               Charles University
+Petr Barton                       
+Natland Investment Group 
+
+and  
+
+Josef Montag, PhD    
+Department of Economics  
+Faculty of Law  
+Charles University
