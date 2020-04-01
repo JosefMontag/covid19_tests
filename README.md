@@ -3,7 +3,9 @@
 
 ### About this data
 
-Testing data is critical to our understanding of dynamics of the COVID-19 pandemic and the responses of individual governments and their efficacy. "**Test! Test! Test!**" is WHO's core prescription.
+"**Test! Test! Test!**" is WHO's core prescription to treat the COVID-19 pandemic.
+
+Data on testing is critical to our understanding of dynamics of the COVID-19 pandemic and the responses of individual governments and their efficacy.
 
 This is a **public repository for international data on COVID-19 testing volumes** with the goal to provide analysis-ready data for  analyses of the pandemic and testing policies. 
 
