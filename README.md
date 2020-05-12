@@ -37,8 +37,8 @@ This data repository is maintained by
 Josef Montag, PhD    
 Department of Economics  
 Faculty of Law  
-Charles University
-josef.montag@gmail.com
+Charles University  
+josef.montag@gmail.com  
 sites.google.com/site/josefmontag
 
 This data gathering effort was originally co-initiated by Petr Barton of Natland Investment Group.
