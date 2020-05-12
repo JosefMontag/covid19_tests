@@ -1,32 +1,42 @@
 # covid19_tests
-## International Data on COVID-19 Testing Volume (by date and country)
+## International Data on SARS-CoV-2 Testing Volume (by date and country)
 
 ### About this data
 
-"**Test! Test! Test!**" is WHO's core prescription to treat the COVID-19 pandemic.
+"**Test! Test! Test!**" is WHO's core prescription to treat the SARS-CoV-2 pandemic.
 
-Data on testing is critical to our understanding of dynamics of the COVID-19 pandemic and the responses of individual governments and their efficacy.
+Data on testing is critical to our understanding of dynamics of the SARS-CoV-2 pandemic and the responses of individual governments and their efficacy.
 
-This is a **public repository for international data on COVID-19 testing volumes** with the goal to provide analysis-ready data for  analyses of the pandemic and testing policies. 
+This is a **public repository for international data on SARS-CoV-2 testing volumes** with the goal to provide analysis-ready data for analyses of the pandemic and testing policies.
 
-This data is being continuously collated by community effort. However, **volunteers are still needed** to make the data as comprehensive as possible and keep it up to date. You may **join the efforts by contributing data from your country at http://bit.ly/covid-tests-data**.
+## An important update (switch to Worldometer's data)
 
-Using that link, you may also provide feedback or corrections. You may contact us directly at josef.montag@gmail.com.
+Because Worldometer recently started to publish daily data on SARS-CoV-2 testing volumes (together with data on cases and deaths) and it covers almost all countries, I begun to log this data. We have interupted our previous efforts.
+
+Thus, starting **from April 8, 2020**: 
+
+* Every day I save the previous day's table from https://www.worldometers.info/coronavirus/. 
+* I put the daily tables together, drop aggregate statistics (World, continents), and add dates and ISO country codes. 
+* The resulting analysis-ready datasets are stored in folder *Worldometer_COVID_data* and will be updated weekly. 
+* The raw data tables from Worldometer are stored under subfolder *Raw_data*.
 
 ### Updates and merging with other datasets
 
 We will be posting snapshots of this data in the long (panel) form. Each country-day observation is identified using standard ISO 3166 country codes and the data can thus be easily merged with other relevant cross-country datasets.
 
-### Maintainers
+## Previous data on SARS-CoV-2 testin volumes
 
-This data gatherig effort was initiated and is maintained by
+The previous data on covid tests remain unchanged but are not being updated as of now. This data can be merged with Worldometer's data using date and ISO3 country codes (in both datasets). We checked and Worldometer's data and our earlier data on testing volumes are consistent. However, both datasets should to be checked for consistency before conducting any analysis.
 
-Petr Barton                       
-Natland Investment Group 
+We continue scraping some data automatically (the files are available upon request) and manually in our Google sheet at http://bit.ly/covid-tests-data. This data can be used to check for consitency between Worldometer's data and the sources that we identified and document in the Google sheet.
 
-and  
+### Maintainer
+
+This data repository is maintained by 
 
 Josef Montag, PhD    
 Department of Economics  
 Faculty of Law  
 Charles University
+
+This data gathering effort was originally co-initiated by Petr Barton of Natland Investment Group.
