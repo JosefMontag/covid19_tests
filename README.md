@@ -28,7 +28,7 @@ We will be posting snapshots of this data in the long (panel) form. Each country
 
 The previous data on covid tests remain unchanged but are not being updated as of now. This data can be merged with Worldometer's data using date and ISO3 country codes (in both datasets). We checked and Worldometer's data and our earlier data on testing volumes are consistent. However, both datasets should to be checked for consistency before conducting any analysis.
 
-We continue scraping some data automatically (the files are available upon request) and manually in our Google sheet at bit.ly/covid-tests-data. This data can be used to check for consitency between Worldometer's data and the sources that we identified and document in the Google sheet.
+We continue scraping some data automatically (the files are available upon request) and manually in our Google sheet at www.bit.ly/covid-tests-data. This data can be used to check for consitency between Worldometer's data and the sources that we identified and document in the Google sheet.
 
 ### Maintainer
 
@@ -39,6 +39,6 @@ Department of Economics
 Faculty of Law  
 Charles University  
 josef.montag@gmail.com  
-sites.google.com/site/josefmontag
+www.sites.google.com/site/josefmontag
 
 This data gathering effort was originally co-initiated by Petr Barton of Natland Investment Group.
